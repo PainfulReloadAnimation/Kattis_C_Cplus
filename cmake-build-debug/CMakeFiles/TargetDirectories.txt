@@ -1,0 +1,3 @@
+C:/Users/htk332/CLionProjects/Kattis_C_Cplus/cmake-build-debug/CMakeFiles/Kattis_C_Cplus.dir
+C:/Users/htk332/CLionProjects/Kattis_C_Cplus/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/htk332/CLionProjects/Kattis_C_Cplus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
